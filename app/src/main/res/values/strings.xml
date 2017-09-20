@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="lbl_title">My First Application</string>
+    <string name="lbl_subtitle">Android Studio</string>
+    <string name="lbl_comment">DAM2</string>
+    <string name="lbl_button1">Click me</string>
 </resources>
